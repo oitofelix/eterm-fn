@@ -10,15 +10,8 @@
 
 ;;; Code:
 
-
-(require 'package)
-
-
 (define-package "eterm-fn" "20190822.1721"
   "Fn keys for term."
   '((term "0")))
-
-
-(provide 'eterm-fn-pkg)
 
 ;;; eterm-fn-pkg.el ends here
