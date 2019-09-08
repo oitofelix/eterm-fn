@@ -11,7 +11,7 @@
 ;;; Code:
 
 (define-package "eterm-fn" "20190822.1721"
-  "Fn keys for term."
+  "Function keys (F1--F12) for term."
   '((term "0")))
 
 ;;; eterm-fn-pkg.el ends here
