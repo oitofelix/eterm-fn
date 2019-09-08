@@ -1,0 +1,17 @@
+#
+# Install:
+#     tic eterm-fn-256color.ti
+eterm-fn-256color| eterm-256color with fn keys support,
+    kf1=\E[11~,
+    kf2=\E[12~,
+    kf3=\E[13~,
+    kf4=\E[14~,
+    kf5=\E[15~,
+    kf6=\E[17~,
+    kf7=\E[18~,
+    kf8=\E[19~,
+    kf9=\E[20~,
+    kf10=\E[21~,
+    kf11=\E[22~,
+    kf12=\E[23~,
+    use=eterm-256color,
