@@ -3,6 +3,11 @@
 ;; Copyright (C) 2019 Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>
 
 ;; Author: Bruno Félix Rezende Ribeiro <oitofelix@gnu.org>
+;; Keywords: terminals
+;; Package: eterm-fn
+;; Homepage: https://github.com/oitofelix/eterm-fn
+;; Version: 0
+;; Package-Requires: ((emacs "25"))
 
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
