@@ -12,6 +12,12 @@
 
 (define-package "eterm-fn" "20190928.2043"
   "Function keys (F1--F12) for term."
-  '((term "0")))
+  '((term "0"))
+  :authors
+  '("Bruno Félix Rezende Ribeiro" . "oitofelix@gnu.org")
+  :maintainer
+  '("Bruno Félix Rezende Ribeiro" . "oitofelix@gnu.org")
+  :url
+  "https://github.com/oitofelix/eterm-fn")
 
 ;;; eterm-fn-pkg.el ends here
