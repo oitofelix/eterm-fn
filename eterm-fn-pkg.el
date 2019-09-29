@@ -10,7 +10,7 @@
 
 ;;; Code:
 
-(define-package "eterm-fn" "20190928.2043"
+(define-package "eterm-fn" "20190929.0017"
   "Function keys (F1--F12) for term."
   '((term "0"))
   :authors
