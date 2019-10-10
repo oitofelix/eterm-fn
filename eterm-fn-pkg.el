@@ -14,7 +14,7 @@
   "Function keys (F1--F12) for term."
   '((term "0"))
   :authors
-  '("Bruno Félix Rezende Ribeiro" . "oitofelix@gnu.org")
+  '(("Bruno Félix Rezende Ribeiro" . "oitofelix@gnu.org"))
   :maintainer
   '("Bruno Félix Rezende Ribeiro" . "oitofelix@gnu.org")
   :url
